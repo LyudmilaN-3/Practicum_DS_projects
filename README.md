@@ -5,7 +5,7 @@
 ## ✔Исследование объявлений о продаже квартир
 #### (ПРОЕКТ: ИССЛЕДОВАТЕЛЬСКИЙ АНАЛИЗ ДАННЫХ)
 
-[Ссылка на проект](https://github.com/LyudmilaN-3/Practicum_DS_projects/Исследование_объявлений_о_продаже_квартир)
+[Ссылка на проект](https://github.com/LyudmilaN-3/Practicum_DS_projects/tree/main/Исследование_объявлений_о_продаже_квартир)
 
 <img width="323" height="239" alt="image" src="https://github.com/user-attachments/assets/559296b1-f7ef-4dc6-9d40-e7a9adabc4c6" />
 
