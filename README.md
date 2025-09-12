@@ -52,7 +52,7 @@
 ## ✔HR-аналитика
 #### (ПРОЕКТ: ОБУЧЕНИЕ С УЧИТЕЛЕМ)
 
-[Ссылка на проект](https://github.com/LyudmilaN-3/Practicum_DS_projects/tree/main/HR_аналитика)
+[Ссылка на проект](https://github.com/LyudmilaN-3/Practicum_DS_projects/tree/main/HR-аналитика)
 
 <img width="555" height="319" alt="image" src="https://github.com/user-attachments/assets/c529eec0-39bd-469f-9f40-0f6cee215825" />
 
